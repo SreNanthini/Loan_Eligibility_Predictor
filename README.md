@@ -103,5 +103,5 @@ pip install -r requirements.txt
 
 ## 🙌 Acknowledgments
 
-Part of **RISE Internship by Tamizhan Skills – July 2025 batch**  
+Part of **RISE Internship by Tamizhan Skills – June 2025 batch**  
 
