@@ -92,6 +92,9 @@ pip install -r requirements.txt
   - Income & Loan Info
   - Property Area
 
+## 📌 Deployed web app
+-[Click here](https://loaneligibilitypredictor.streamlit.app/)
+
 ## 🎯 Future Improvements
 
 - Add input validation and field explanation in UI
